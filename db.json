@@ -1,0 +1,45 @@
+{
+    "league-v4": [
+        {
+            "leagueId": "7ec9081a-fc8b-374b-bdbc-f1dce0333791",
+            "queueType": "RANKED_SOLO_5x5",
+            "tier": "CHALLENGER",
+            "rank": "I",
+            "summonerId": "rHs1PiKqQAnHx4Cp1M_3AQslw5nv3XgLJ7q2PbHIxzcm3Q",
+            "summonerName": "Yakiba",
+            "leaguePoints": 705,
+            "wins": 100,
+            "losses": 77,
+            "veteran": false,
+            "inactive": false,
+            "freshBlood": false,
+            "hotStreak": false
+        },
+        {
+            "leagueId": "82e111c7-929c-4735-8f5b-8816c5e2f81b",
+            "queueType": "RANKED_FLEX_SR",
+            "tier": "PLATINUM",
+            "rank": "I",
+            "summonerId": "rHs1PiKqQAnHx4Cp1M_3AQslw5nv3XgLJ7q2PbHIxzcm3Q",
+            "summonerName": "Yakiba",
+            "leaguePoints": 71,
+            "wins": 11,
+            "losses": 4,
+            "veteran": false,
+            "inactive": false,
+            "freshBlood": false,
+            "hotStreak": false
+        }
+    ],
+    "summoner-v4": [
+        {
+            "id": "rHs1PiKqQAnHx4Cp1M_3AQslw5nv3XgLJ7q2PbHIxzcm3Q",
+            "accountId": "Ub0AszcjyiBpW_fcBsEqaicMS8D6DVyjb9knlaMvFQmosxQ",
+            "puuid": "CYJJbA72HriWTbi1T75Ff7SHit-fmkePIqi4_pDKTrTA_oyC4rJbPg4PW4JoCdVhO07QIhf1wy2tCw",
+            "name": "Yakiba",
+            "profileIconId": 5197,
+            "revisionDate": 1648934478000,
+            "summonerLevel": 654
+        }
+    ]
+}
